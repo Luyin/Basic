@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luyin.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luyin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luyin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luyin_main.iml" group="com.luyin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.luyin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.luyin_test.iml" group="com.luyin" />
+    </modules>
+  </component>
+</project>
